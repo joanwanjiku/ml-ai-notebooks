@@ -1,3 +1,4 @@
+.DS_Store
 O_R_tlearn_vgg16.keras
 O_R_tlearn_fine_tune_vgg16.keras
 o-vs-r-split/
